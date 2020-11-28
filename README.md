@@ -26,7 +26,7 @@ module.exports = {
     },
     variants: {},
     plugins: [
-        require('./tailwindcss-design-systems'), // 👈 add this line to enable the plugin
+        require('tailwindcss-design-systems'), // 👈 add this line to enable the plugin
     ],
 };
 ```
