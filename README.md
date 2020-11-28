@@ -9,6 +9,13 @@ Optional pre-built CSS components based on famous design systems and pattern lib
 Let's say, you like Tailwind's utility-first approach but you don't want to copy paste same class names for common components (button, input, etc...) everytime.  
 You can use pre-built CSS components based on a design system and use your favorie utility classes with them. Let's say you want your custom layout made by Tailwind's utility classes but you want your button's base style to look like Material Design buttons.
 
+## What's included?
+Currently buttons and cards  
+Material design buttons, Bootstrap cards and buttons, iOS buttons and OSX buttons
+
+I might add more components later.
+
+
 ## How to use?  
 Install Tailwind CSS:  
 `npm i tailwindcss`
